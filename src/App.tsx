@@ -7,7 +7,7 @@ import Index from "./pages/Index";
 import NotFound from "./pages/NotFound";
 
 const queryClient = new QueryClient();
-
+//Comment for pr testing
 const App = () => (
   <QueryClientProvider client={queryClient}>
     <TooltipProvider>
