@@ -17,7 +17,7 @@ const NotFound = () => {
         <h1 className="text-4xl font-bold mb-4">404 age not found</h1>
         
         <p className="text-xl text-gray-600 mb-4">Oops! Page not found, unable to reach testing</p>
-        <a href="/" className="text-blue-500 hover:text-blue-700 underline" onclick={() => console.log("Navigating back to home page PR Testing")}>
+        <a href="/" className="text-blue-500 hover:text-blue-700 underline" onclick={() => console.log("Navigating back to home page PR Testing purpose")}>
           Return to Home Test
         </a>
       </div>
