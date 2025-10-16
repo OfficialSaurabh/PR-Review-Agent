@@ -7,7 +7,7 @@ import Index from "./pages/Index";
 import NotFound from "./pages/NotFound";
 
 const queryClient = new QueryClient();
-
+//Add comment for PR Review agent
 const App = () => (
   <QueryClientProvider client={queryClient}>
     <TooltipProvider>
